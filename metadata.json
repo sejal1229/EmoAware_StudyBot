@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MindFlow: Emotion-Aware Study Assistant",
+  "description": "An intelligent study companion that uses real-time facial analysis to monitor your emotional state and provide personalized guidance to improve focus and prevent burnout.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
